@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>실험 branch 변경</title>
+<title>Source Tree 수업</title>
 </head>
 <body>
 	<h1>GIT</h1>
