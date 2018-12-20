@@ -9,5 +9,10 @@
 <body>
 	<h1>GIT</h1>
 	<p>commit 용 change</p>
+	<ul>
+		<li>GIT이란?</li>
+		<li>버전</li>
+		<li>브랜치</li>
+	</ul>
 </body>
 </html>
