@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>실험 branch 변경</title>
 </head>
 <body>
 	<h1>GIT</h1>
