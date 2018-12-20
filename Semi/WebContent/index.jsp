@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>GIT</h1>
+	<header>
+		<h1>GIT</h1>
+	</header>
 	<p>commit 용 change</p>
 </body>
 </html>
