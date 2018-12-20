@@ -1,1 +1,1 @@
-이거슨 말이지 README.md
+이거슨 말이지 README.md 이란 말이다
