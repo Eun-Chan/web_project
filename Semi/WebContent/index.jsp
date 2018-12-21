@@ -21,6 +21,7 @@
 		<li>push</li>
 		<li>pull</li>
 		<li>origin에서 변경</li>
+		<li>test_github에서 변경<li>
 	</ul>
 </body>
 </html>
