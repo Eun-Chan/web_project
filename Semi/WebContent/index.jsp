@@ -23,6 +23,7 @@
 		<li>origin에서 변경</li>
 		<li>test_github에서 변경<li>
 		<li>conflict - origin에서 변경 (push)</li>
+		<li>conflict - test_github에서 변경 (push)</li>
 	</ul>
 </body>
 </html>
