@@ -20,6 +20,7 @@
 		<li>동기화</li>
 		<li>push</li>
 		<li>pull</li>
+		<li>origin에서 변경</li>
 	</ul>
 </body>
 </html>
